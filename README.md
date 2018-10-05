@@ -2,5 +2,5 @@
 Capstone project from Bulacan State University
 
 ## Features
-** Manage Students' information
-** Manage Events' information
+** Manage Students' information **
+** Manage Events' information **
